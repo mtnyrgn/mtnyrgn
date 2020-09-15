@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mtnyrgn](https://github.com/gargakshit)
 
-- 💬 Ask me about **.Net, .Net Core Flutter, and React **
+- 💬 Ask me about **.Net, .Net Core Flutter, and React**
 
 - 📫 How to reach me **metinyorgun@outlook.com**
 
