@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Metin</h1>
-<h3 align="center">A Full Stack Developer from Ankara</h3>
+<h3 align="center">A Software Engineer from Ankara</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargakshit" alt="gargakshit" /> </p>
 
 - 🔭 I’m currently working on **Turkish Petroleum**
