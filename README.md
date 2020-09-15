@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **metinyorgun@outlook.com**
 
-- ⚡ Fun fact **I love Mobile Development **
+- ⚡ Fun fact **I love Mobile Development**
 
 "The purpose of software engineering is to control complexity, not to create it." -Pamela Zave
 
