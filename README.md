@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Metin</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Metin!</h1>
 <h3 align="center">A Software Engineer from Ankara</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtnyrgn" alt="gargakshit" /> </p>
 
@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **anything free and open source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mtnyrgn](https://github.com/gargakshit)
+- 👨‍💻 All of my projects are available at [https://github.com/mtnyrgn](https://github.com/mtnyrgn)
 
 - 💬 Ask me about **.Net, .Net Core, Flutter and React**
 
